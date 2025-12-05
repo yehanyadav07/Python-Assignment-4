@@ -36,3 +36,5 @@ Grouped by month to calculate:
 Monthly average temperature
 Monthly rainfall total
 Monthly average humidity
+Results:-   (cleaned_weather_data.csv)
+graph of grouped data- (combined_plot.png) (weather_data.csv)
